@@ -1,0 +1,183 @@
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\bin\Debug\QLLH@.exe
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH@.exe
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH@.pdb
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH_.Xeplich.resources
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+C:\Users\quang\Desktop\.NET\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\bin\Debug\QLLH@.exe
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.Xeplich.resources
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH@.exe
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH@.pdb
+E:\ky1 nam4\ThucTap.Net\QLLH\QLLH\QLLH@\obj\Debug\QLLH_.frmDangKyLich.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\bin\Debug\QLLH@.exe
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmDangKyLich.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.Xeplich.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.exe
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.pdb
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\bin\Debug\Guna.UI2.dll
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmLogin.resources
+C:\Users\quang\Downloads\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.Resources.frmLogin.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\bin\Debug\QLLH@.exe
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\bin\Debug\Guna.UI2.dll
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmDangKyLich.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmLogin.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.Resources.frmLogin.resources
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.exe
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH@.pdb
+C:\Users\mevob\Downloads\QLLH (1)\QLLH (1)\QLLH\QLLH@\obj\Debug\QLLH_.frmDKCaTrong.resources
+E:\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+E:\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe
+E:\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+E:\NCKH\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+E:\NCKH\QLLH\QLLH@\bin\Debug\Guna.UI2.dll
+E:\NCKH\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDangKyLich.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmLogin.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDKCaTrong.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.exe
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.pdb
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.FrmXepLich.resources
+E:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmXemLich.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDangKyLich.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmLogin.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmXemLich.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.FrmXepLich.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDKCaTrong.resources
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.exe
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.pdb
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\bin\Debug\Guna.UI2.dll
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\doant\OneDrive\Máy tính\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+D:\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+D:\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe
+D:\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+D:\NCKH\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+D:\NCKH\QLLH\QLLH@\bin\Debug\Guna.UI2.dll
+D:\NCKH\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDangKyLich.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmLogin.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmXemLich.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.FrmXepLich.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDKCaTrong.resources
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.exe
+D:\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.pdb
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe.config
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.exe
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\bin\Debug\QLLH@.pdb
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\bin\Debug\FontAwesome.Sharp.dll
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\bin\Debug\Guna.UI2.dll
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.AssemblyReference.cache
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.SuggestedBindingRedirects.cache
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Form1.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDangKyLich.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmLogin.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLGV.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLLH.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLPM.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmQLTK.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmXemLich.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.FrmXepLich.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.Properties.Resources.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH_.frmDKCaTrong.resources
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.GenerateResource.cache
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CoreCompileInputs.cache
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.csproj.CopyComplete
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.exe
+D:\ALL NCKH\NCKH_5-5_11h29\NCKH\QLLH\QLLH@\obj\Debug\QLLH@.pdb
